@@ -6,7 +6,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            AI Weblog
+title:            zianocom
 tagline:          'AI is infomation'
 description:      'AI generated useful infomation blog.'
 url:              https://aiblog.comne.kr
